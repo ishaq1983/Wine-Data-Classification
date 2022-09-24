@@ -8,7 +8,10 @@ Secondly, binary classification models will be developed via hyperparameter tuni
 
 Finally, important features will be selected from the full feature set based on the correlation with the wine type, and the performance of these stripped-down binary classification models will be compared with the full-fledged classification models.
 
-This tutorial will feature following tools/libraries to classify Wine types using 3 machine learning algorithms namely Support Vector Machine (SVM), Random Forest (RF) and Gradient Boost classifiers:
+we will feature following tools/libraries to classify Wine types using 3 machine learning algorithms namely 
+Support Vector Machine (SVM), 
+Random Forest (RF) and 
+Gradient Boost classifiers:
 
 Python
 Jupyter Notebook
